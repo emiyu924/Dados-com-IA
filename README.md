@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Teste
-=======
 # 📊 Dados com IA — Análise de Dados com Ferramentas de Inteligência Artificial
 
 > Repositório prático para aprendizado de análise de dados, visualização e machine learning usando Python e bibliotecas de IA.
@@ -127,12 +124,7 @@ Não especificada. Recomenda-se adicionar um arquivo `LICENSE` ao projeto.
 ## 📬 Contato
 
 - **Autor:** [emiyu924](https://github.com/emiyu924)
-<<<<<<< HEAD
-### aaa
-=======
 
-
->>>>>>> 301a0ff065a6996b30bf5b6d6f47abe238b8fa95
 ---
 
 ## 🔄 Contribuições
@@ -142,4 +134,3 @@ Contribuições são bem-vindas! Abra issues, envie pull requests ou sugira melh
 ---
 
 > 💡 **Dica:** Este repositório é ideal para quem quer aprender análise de dados de forma prática, combinando bibliotecas Python com Inteligência Artificial para acelerar insights.
->>>>>>> a9aa3e3245ca5a60db0f0b1d9aefc3d02b40601a
